@@ -6,7 +6,9 @@
     "dev": "next dev",
     "build": "npm install --legacy-peer-deps && npm run build",
     "start": "next start",
-    "lint": "next lint"
+    "lint": "next lint",
+    
+
   },
   "dependencies": {
     "@emotion/react": "^11.13.3",
