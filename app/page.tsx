@@ -1,9 +1,9 @@
-import Explore from "./components/explore";
+// import Explore from "./components/explore";
 // import Faq from "./components/faq";
-import GetStarted from "./components/getStarted";
+// import GetStarted from "./components/getStarted";
 import Hero from "./components/hero";
-import Influaner from "./components/influaner";
-import Monetization from "./components/monetization";
+// import Influaner from "./components/influaner";
+// import Monetization from "./components/monetization";
 import Navbar from "./components/navbar";
 
 export default function Home() {
@@ -11,10 +11,10 @@ export default function Home() {
     <div>
       <Navbar />
       <Hero />
-      <Explore />
+      {/* <Explore />
       <Monetization />
       <Influaner />
-      <GetStarted />
+      <GetStarted /> */}
    </div>
   );
 }
